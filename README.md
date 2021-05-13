@@ -11,4 +11,4 @@ Run is very easy to use. Lets say I wanted to execute pcmanfm and Sublime Text. 
 If you want to use run from everywhere in your system and application launchers, you need to run *./install*. If you want to use it locally, just type *./run*!
 
 ### Can I see a video of how it works?
-Yes, you can! https://youtu.be/fyJuMro3w6I
+Yes, you can! https://www.youtube.com/watch?v=fyJuMro3w6I
